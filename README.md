@@ -1,10 +1,10 @@
-### Khóa luận tốt nghiệp 2020-2021
+### --- Khóa luận tốt nghiệp 2020-2021 ---
 
-### Đề tài: Phân tích thiết kế hệ thống thông tin quản lý Ký túc xá sinh viên HVNN
+## Đề tài: Phân tích thiết kế hệ thống thông tin quản lý Ký túc xá sinh viên HVNN
 
-### Sử dụng: Reactjs + Spring-boot + Mysql
+## Sử dụng: Reactjs + Spring-boot + Mysql
 
-### Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
