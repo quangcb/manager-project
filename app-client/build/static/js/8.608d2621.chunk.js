@@ -1,0 +1,2 @@
+(this["webpackJsonpapp-client"]=this["webpackJsonpapp-client"]||[]).push([[8],{35:function(t,n,c){"use strict";c.r(n),c.d(n,"default",(function(){return i}));c(0);var e=c(3);function i(){return Object(e.jsx)("div",{})}}}]);
+//# sourceMappingURL=8.608d2621.chunk.js.map

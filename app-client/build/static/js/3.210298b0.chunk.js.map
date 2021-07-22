@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/AccountPage.js"],"names":["AccountPage"],"mappings":"+GAAA,+DAEe,SAASA,IACpB,OACI","file":"static/js/3.210298b0.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nexport default function AccountPage() {\r\n    return(\r\n        <div>\r\n        \r\n        </div>\r\n    )\r\n}"],"sourceRoot":""}

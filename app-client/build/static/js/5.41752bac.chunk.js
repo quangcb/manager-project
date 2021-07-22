@@ -1,0 +1,2 @@
+(this["webpackJsonpapp-client"]=this["webpackJsonpapp-client"]||[]).push([[5],{32:function(n,t,c){"use strict";c.r(t),c.d(t,"default",(function(){return i}));c(0);var e=c(3);function i(){return Object(e.jsx)("div",{children:Object(e.jsx)("div",{children:"dashboard"})})}}}]);
+//# sourceMappingURL=5.41752bac.chunk.js.map
