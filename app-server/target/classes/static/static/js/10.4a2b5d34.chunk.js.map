@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/StudentPage.js"],"names":["StudentPage"],"mappings":"gHAAA,+DAEe,SAASA,IACpB,OACI","file":"static/js/10.4a2b5d34.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nexport default function StudentPage() {\r\n    return(\r\n        <div>\r\n        \r\n        </div>\r\n    )\r\n}"],"sourceRoot":""}

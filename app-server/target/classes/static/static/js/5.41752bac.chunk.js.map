@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/DashboardPage.js"],"names":["DashboardPage"],"mappings":"+GAAA,+DAEe,SAASA,IACpB,OACI,8BACI","file":"static/js/5.41752bac.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nexport default function DashboardPage() {\r\n    return(\r\n        <div>\r\n            <div>dashboard</div>\r\n        </div>\r\n    )\r\n}"],"sourceRoot":""}

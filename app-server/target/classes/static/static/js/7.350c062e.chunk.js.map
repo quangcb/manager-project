@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/ReportPage.js"],"names":["ReportPage"],"mappings":"+GAAA,+DAEe,SAASA,IACpB,OACI","file":"static/js/7.350c062e.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nexport default function ReportPage() {\r\n    return(\r\n        <div>\r\n        \r\n        </div>\r\n    )\r\n}"],"sourceRoot":""}
